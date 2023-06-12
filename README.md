@@ -41,12 +41,13 @@ Users can select a path display type in the drop down menu, and enter the number
 
 <p align="center">
 
-<img src="https://github.com/LC-Linkous/Example_wxPython-Matplotlib/blob/master/imgs/connected-example.PNG" width="250">
+<img src="https://github.com/LC-Linkous/Example_wxPython-Matplotlib/blob/main/imgs/connected-example.PNG" width="250">
 
-<img src="https://github.com/LC-Linkous/Example_wxPython-Matplotlib/blob/master/imgs/unconnected-example.PNG" width="250">
+<img src="https://github.com/LC-Linkous/Example_wxPython-Matplotlib/blob/main/imgs/unconnected-example.PNG" width="250">
 
-<img src="https://github.com/LC-Linkous/Example_wxPython-Matplotlib/blob/master/imgs/single-example.PNG" width="250">
+<img src="https://github.com/LC-Linkous/Example_wxPython-Matplotlib/blob/main/imgs/single-example.PNG" width="250">
 </p>
+
 
 ## Future Work 
 This may or may not be updated - it is meant as an example only, not as a fully functioning project. 
